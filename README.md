@@ -1,10 +1,8 @@
 # docker-postgresql-zombodb
-Docker file: PostgreSQL + ZomboDB
+Docker file: Postgres + PostGIS + ZomboDB
 
 # Versions
-Check realease tags for more info
+- Postgresql 10.7
+- Postgis 2.5
+- Elasticsearch >= 5.6.4 <= 7.0.0
 
-# Tags
-- [10.7-10-1.0.3](https://github.com/calinrada/docker-postgresql-zombodb/tree/10.7-10-1.0.3)
-- [9.5-5.6.4-1.0.17](https://github.com/calinrada/docker-postgresql-zombodb/tree/9.5-5.6.4-1.0.17)
- 
